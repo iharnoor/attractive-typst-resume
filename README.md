@@ -5,5 +5,5 @@ To compile it to pdf, make sure typst is installed. The provided flake.nix and .
 Mirror link at Typst.app https://typst.app/project/rLlknWbYc8XMaZc45BHlMl
 
 Preview:\
-<img src="assets/images/attractive-typst-resume-blue.png?v=2" width="400px" />
-<img src="assets/images/attractive-typst-resume-green.png?v=2" width="400px" />
+<img src="assets/images/attractive-typst-resume-blue.png?v=3" width="400px" />
+<img src="assets/images/attractive-typst-resume-green.png?v=3" width="400px" />
