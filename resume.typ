@@ -24,6 +24,10 @@
       link: "https://www.github.com/iharnoor"
     ),
     contact(
+      text: "singhinusa.dev",
+      link: "https://singhinusa.dev"
+    ),
+    contact(
       text: "email@example.com",
       link: "mailto:email@example.com"
     )
